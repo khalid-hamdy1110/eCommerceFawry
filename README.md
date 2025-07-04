@@ -3,13 +3,13 @@ This is a simple console-based eCommerce system made with Java
 
 ## Features
 - Adding products to the cart
-- Checking out receipt
+- Check out receipt
 - Shipping Service notice
-- Error handling
+- Error handling for multiple cases
 
 ## Project Structure
 ```
-eCommerceFawry/
+eCommerce/
 ├── src/                # Source code
 │   ├── exceptions/     # All exception classes
 │   ├── product/        # Includes the Product class, Expirable and Shippable Interfaces
@@ -41,3 +41,11 @@ The main method lies in the Shop.java file inside the Shop folder, all examples 
 
 ### Example 7
 <img width="1024" height="1062" alt="Image" src="https://github.com/user-attachments/assets/52b8fb69-4a94-4e41-98b0-04026c7ceffd" />
+
+## Author
+
+Created by **Khalid Hamdy**,  
+Internship Challenge Contributor  
+
+Connect on GitHub: [khalid-hamdy1110](https://github.com/khalid-hamdy1110)  
+Email: [khalid.hamdy1110@gmail.com](mailto:khalid.hamdy1110@gmail.com)
